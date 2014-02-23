@@ -311,6 +311,8 @@ If you're on Linux, check whether your distribution's package-management system
 offers a package called "python-mysql", "python-mysqldb", "mysql-python" or
 something similar.
 
+If you're on Mac OS X, you can use a Python package management system like pip by calling `pip install mysql-python`. pip in turn can be installed using Homebrew: http://brew.sh/.
+
 Using Django with Oracle
 ------------------------
 
